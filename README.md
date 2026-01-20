@@ -17,25 +17,21 @@ and retrieve a history of their activities with filtering options.
 ---
 
 ## PREREQUISITES
-    •    Node.js and npm
-
-    •    MongoDB (local or cloud instance)
+- Node.js and npm
+- MongoDB (local or cloud instance)
 
 ---
 
 ## INSTALLATION
-    •    Clone the repository
-
-    •    Run npm install to install dependencies
-
-    •    Set up environment variables (if needed)
-
-    •    Start the server using npm start or node index.js
+- Clone the repository
+- Run npm install to install dependencies
+- Set up environment variables (if needed)
+- Start the server using npm start or node index.js
 
 ---
 
 ## TECHNOLOGIES USED
-    •    Node.js
-    •    Express
-    •    MongoDB
-    •    Mongoose
+- Node.js
+- Express
+- MongoDB
+- Mongoose
