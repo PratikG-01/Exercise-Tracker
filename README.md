@@ -1,13 +1,13 @@
-# EXERCISE TRACKER MICROSERVICE
+# Exercise Tracker Microservice
 
-## OVERVIEW
+## Overview
 This is a Node.js and Express-based microservice that allows users to create exercise logs. 
 Users can create accounts, log their workouts with a description, duration, and optional date, 
 and retrieve a history of their activities with filtering options.
 
 ---
 
-## FEATURES
+## Features
 
 - Create a new user with a unique username
 - Add exercises including description, duration, and optional date
@@ -16,13 +16,13 @@ and retrieve a history of their activities with filtering options.
 
 ---
 
-## PREREQUISITES
+## Prerequisites
 - Node.js and npm
 - MongoDB (local or cloud instance)
 
 ---
 
-## INSTALLATION
+## Installation
 - Clone the repository
 - Run npm install to install dependencies
 - Set up environment variables (if needed)
@@ -30,7 +30,7 @@ and retrieve a history of their activities with filtering options.
 
 ---
 
-## TECHNOLOGIES USED
+## Technologies used
 - Node.js
 - Express
 - MongoDB
