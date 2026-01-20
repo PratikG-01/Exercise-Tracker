@@ -10,7 +10,7 @@ and retrieve a history of their activities with filtering options.
 ## Features
 
 - Create a new user with a unique username
-- Add exercises including description, duration, and optional date
+- Add exercises including description, duration, and optional date
 - Retrieve full exercise logs for a user
 - Filter logs by date range and limit the number of results
 
