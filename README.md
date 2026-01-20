@@ -1,6 +1,7 @@
 # Exercise Tracker Microservice
 
 A Node.js and Express-based microservice that allows users to create exercise logs. 
+
 Users can create accounts, log their workouts with a description, duration, and optional date, 
 and retrieve a history of their activities with filtering options.
 
