@@ -1,4 +1,4 @@
-# Exercise Tracker Microservice
+# TrackFit API - An exercise tracker microservice
 
 A Node.js and Express-based microservice that allows users to create exercise logs. 
 
